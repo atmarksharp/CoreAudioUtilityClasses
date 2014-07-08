@@ -10,6 +10,10 @@ This repo is mirror of below.
 - https://developer.apple.com/library/ios/samplecode/CoreAudioUtilityClasses/Introduction/Intro.html
 
 
+## Included classes
+
+see `html/index.html`
+
 ## Xcode Version requirements
 
 These classes should be installed on a system running Xcode 4.3 or later. 
