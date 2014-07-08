@@ -12,7 +12,7 @@ This repo is mirror of below.
 
 ## Included classes
 
-See [CoreAudioUtilityClasses - Class List](http://atmarksharp.github.io/coreaudio-html/)
+See "[CoreAudioUtilityClasses - Class List](http://atmarksharp.github.io/coreaudio-html/) (external link)"
 
 ## Xcode Version requirements
 
